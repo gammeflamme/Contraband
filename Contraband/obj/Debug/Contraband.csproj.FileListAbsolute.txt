@@ -1,0 +1,7 @@
+C:\FTP\programering\Contraband\Contraband\bin\Debug\Contraband.exe.config
+C:\FTP\programering\Contraband\Contraband\bin\Debug\Contraband.exe
+C:\FTP\programering\Contraband\Contraband\bin\Debug\Contraband.pdb
+C:\FTP\programering\Contraband\Contraband\obj\Debug\Contraband.csprojAssemblyReference.cache
+C:\FTP\programering\Contraband\Contraband\obj\Debug\Contraband.csproj.CoreCompileInputs.cache
+C:\FTP\programering\Contraband\Contraband\obj\Debug\Contraband.exe
+C:\FTP\programering\Contraband\Contraband\obj\Debug\Contraband.pdb
